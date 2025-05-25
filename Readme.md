@@ -18,7 +18,7 @@ This Power BI dashboard presents an analytical view of the Prime Video content l
 ## Tools Used
 
 - Power BI
-- Excel (for data cleaning, if any)
+- Excel (for data cleaning)
 - Microsoft Bing Maps integration
 - Power BI DAX
 
