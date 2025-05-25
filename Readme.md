@@ -1,3 +1,5 @@
+![Prime Video Sales Dashboard](https://github.com/NudratAbbas/Prime-Video-Dashboard-Analysis/edit/main/Readme.md)raw=true)
+
 # Prime Video Dashboard Analysis
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/NudratAbbas/Prime-Video-Dashboard-Analysis)
