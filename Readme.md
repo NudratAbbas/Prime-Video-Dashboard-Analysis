@@ -1,4 +1,4 @@
-![Prime Video Dashboard](https://github.com/NudratAbbas/Prime-Video-Dashboard-Analysis/raw/main/dashboard-screenshot.png)
+![Prime Video Dashboard](https://github.com/NudratAbbas/Prime-Video-Dashboard-Analysis/raw/main/image.jpg)
 # Prime Video Dashboard Analysis
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/NudratAbbas/Prime-Video-Dashboard-Analysis)
