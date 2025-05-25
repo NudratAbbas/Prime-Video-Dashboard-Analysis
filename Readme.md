@@ -29,5 +29,13 @@ This Power BI dashboard presents an analytical view of the Prime Video content l
 - Genre and rating distribution.
 - Shareable business insights on streaming content.
 
-## Project Structure
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For inquiries or suggestions:
+- Email: techrise35@gmail.com
 
