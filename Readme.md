@@ -1,4 +1,4 @@
-![Prime Video Sales Dashboard](https://github.com/NudratAbbas/Prime-Video-Dashboard-Analysis/edit/main/Readme.md)raw=true)
+![Amazon Prime Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1200px-Amazon_Prime_Video_logo.svg.png)
 
 # Prime Video Dashboard Analysis
 
